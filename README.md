@@ -1,1 +1,1 @@
-# sumofnaturalnos
+# for selection task of Django github study jams
