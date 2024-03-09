@@ -1,1 +1,1 @@
-# for selection task of Django github study jams
+# for selection task of Django python study jams by Tinkerhub
